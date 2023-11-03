@@ -1,4 +1,4 @@
 # Together-We-Go
-This is my first Web Development project
+This is my first Web Development Project
 <br>
---- Team project
+--- Team Project
